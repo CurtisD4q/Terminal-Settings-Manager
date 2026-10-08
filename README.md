@@ -12,12 +12,22 @@ Home menu: vertical list, alphabetical. Up/down (or `j`/`k`, or mouse wheel) to
 move, Enter to open, `q` to quit, `b` back. Mouse: single-click selects,
 double-click opens.
 
-![Settings Menu](./tui-settings-img1.jpeg)
-![Settings Menu](./tui-settings-img2.jpeg)
+Images for the general settings
+<p align="center">
+  <img src="./tui-settings-img1.jpeg" alt="Settings Menu" width="800">
+</p>
+<p align="center">
+  <img src="./tui-settings-img2.jpeg" alt="Settings Menu" width="800">
+</p>
 
-![Settings Menu](./tui-settings-img6.jpeg)
-![Settings Menu](./tui-settings-img7.jpeg)
+Images for the advanced settings
+<p align="center">
+  <img src="./tui-settings-img6.jpeg" alt="Settings Menu" width="800">
+</p>
 
+<p align="center">
+  <img src="./tui-settings-img7.jpeg" alt="Settings Menu" width="800">
+</p>
 
 > **Naming note.** The project is *Settings Menu*. Its on-disk locations keep the
 > original `tui-settings` slug — the program directory (`/opt/tui-settings`) and
