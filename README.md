@@ -12,6 +12,8 @@ Home menu: vertical list, alphabetical. Up/down (or `j`/`k`, or mouse wheel) to
 move, Enter to open, `q` to quit, `b` back. Mouse: single-click selects,
 double-click opens.
 
+![alt text](https://github.com/CurtisD4q/Terminal-Settings-Manager/blob/tui-settings-img1.jpeg?raw=true)
+
 > **Naming note.** The project is *Settings Menu*. Its on-disk locations keep the
 > original `tui-settings` slug — the program directory (`/opt/tui-settings`) and
 > the config directory (`~/.config/tui-settings/`) — so existing installs and
